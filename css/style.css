@@ -104,4 +104,12 @@
 	.box h2{
 		margin: 15px 0 15px 40px;
 	}
+	
+
 	/*end body*/
+	/*footer*/
+	.footer{
+		display: flex;
+		justify-content: space-around;
+		padding: 20px 0;
+	}
